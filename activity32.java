@@ -1,4 +1,4 @@
-public class activity33 {
+public class activity32 {
     public static void main(String[] args) {
         int[][] myNumbers = { {1, 200, 3, 4}, {500, 6, 700} };
         int x = myNumbers[1][0];

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main42.java {
+class Main42 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("What is your name? ");
