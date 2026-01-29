@@ -1,3 +1,6 @@
+// Allysa A. Castro
+// BIT-CPT 3A
+
 public class program9 {
     public static void main(String[] args) {
         int myNum = 5;                   // integer (whole number)

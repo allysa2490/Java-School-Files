@@ -1,3 +1,6 @@
+// Allysa A. Castro
+// BIT-CPT 3A
+
 public class sample6 {
     public static void main(String[] args) {
         int x = 5;
